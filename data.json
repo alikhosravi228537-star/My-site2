@@ -1,0 +1,51 @@
+{
+  "last_update": "2025-04-19 15:30",
+  "v2ray": [
+    {
+      "name": "کانفیگ ویتوری ۱",
+      "link": "/configs/v2ray1.vmess",
+      "desc": "پروتکل VMESS | پایدار"
+    },
+    {
+      "name": "کانفیگ ویتوری ۲",
+      "link": "/configs/v2ray2.vmess",
+      "desc": "پروتکل VLESS | سریع"
+    }
+  ],
+  "vpn": [
+    {
+      "name": "کانفیگ نپستر ۱",
+      "link": "/configs/napster1.ovpn",
+      "desc": "پایدار و مطمئن"
+    },
+    {
+      "name": "کانفیگ نپستر ۲",
+      "link": "/configs/napster2.ovpn",
+      "desc": "سرعت بالا"
+    }
+  ],
+  "apps": [
+    {
+      "name": "V2RayNG",
+      "link": "/apks/v2rayng.apk",
+      "desc": "برای کانفیگ‌های ویتوری"
+    },
+    {
+      "name": "OpenVPN Connect",
+      "link": "/apks/openvpn.apk",
+      "desc": "برای کانفیگ‌های نپستر"
+    }
+  ],
+  "proxies": [
+    {
+      "name": "پروکسی SOCKS5",
+      "address": "socks5://185.123.45.67:1080",
+      "desc": "برای تلگرام"
+    },
+    {
+      "name": "پروکسی HTTP",
+      "address": "http://185.123.45.68:8080",
+      "desc": "برای مرورگر"
+    }
+  ]
+}
